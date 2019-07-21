@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseCRUDOperationsApp</string>
+    <string-array name="genres">
+        <item>Rock</item>
+        <item>Romantic</item>
+    </string-array>
+</resources>
